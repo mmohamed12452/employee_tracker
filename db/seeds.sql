@@ -1,6 +1,6 @@
 -- Inserts names of departments into department table
 INSERT INTO department
-  (name)
+(name)
 VALUES
   ('Engineering'),
   ('Sales'),

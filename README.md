@@ -60,7 +60,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 ![Command Line](./assets/images/command_line.png)
 
 ## Video
-A link to the [Video]()
+A link to the [Video](https://drive.google.com/file/d/1G1yzh3aZBDeCnIaLBwTV1Cbyh1-pkLdF/view?usp=sharing)
 
 ## Link
 

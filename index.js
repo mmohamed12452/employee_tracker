@@ -44,7 +44,7 @@ var employee_tracker = function () {
                 // Adding a Department
                 type: 'input',
                 name: 'department',
-                message: 'What is the name of the dpeartment?',
+                message: 'What is the name of the Department?',
                 validate: departmentInput => {
                     if (departmentInput) {
                         return true;
@@ -128,7 +128,7 @@ var employee_tracker = function () {
                 if (err) throw err;
 
                 inquirer.prompt([
-                    {
+                {
                         // Adding Employee First Name
                         type: 'input',
                         name: 'firstName',
@@ -141,7 +141,7 @@ var employee_tracker = function () {
                                 return false;
                             }
                         }
-                    },
+                },
                     {
                         // Adding Employee Last Name
                         type: 'input',
